@@ -1,6 +1,5 @@
-# MubinAppGP
+# MubinApp
 
-A new Flutter project.
 
 ## Getting Started
 
